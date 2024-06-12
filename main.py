@@ -2,7 +2,7 @@ import telebot
 import json
 from datetime import datetime
 
-API_TOKEN = 'Вставьте ваш токен'
+API_TOKEN = '7220002427:AAFs1V34yYNBGfoUJXfdFtbVkYYNhQhIU5c'
 
 bot = telebot.TeleBot(API_TOKEN)
 
